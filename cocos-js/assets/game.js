@@ -1,1 +1,0 @@
-console.log('[CC Subpackage] wasm assets loaded');
